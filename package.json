@@ -2,7 +2,7 @@
   "name": "nintendo-eshop",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://elhaym.github.io/nintendo-eshop",
+  "homepage": "http://elhaym.github.io/nintendo-eshop",
   "dependencies": {
     "@types/muicss": "^0.9.1",
     "autoprefixer-loader": "^3.2.0",
