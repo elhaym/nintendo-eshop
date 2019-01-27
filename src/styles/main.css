@@ -1,0 +1,35 @@
+@media only screen and (min-width: 1279px) and (max-width: 1920px) {
+    .container {
+        display: inline-block;
+        background-color: transparent;
+        width: 1220px;
+        height: auto;
+        margin: 0 auto;
+        clear: both;
+        overflow: hidden;
+    }
+}
+    #a-fsize {
+        height: 100vh;
+        background-image: url(../images/bg.png);
+        background-color: #ed1c24;
+        background-repeat: no-repeat;
+        animation: animatedBackground 10s linear infinite;
+        -moz-animation: animatedBackground 10s linear infinite;
+        -webkit-animation: animatedBackground 10s linear infinite;
+        -ms-animation: animatedBackground 10s linear infinite;
+        -o-animation: animatedBackground 10s linear infinite;
+        display: inherit;
+    }
+    #b-fsize {
+        display: inherit;
+        overflow: hidden;
+    }
+    #c-fsize {
+        display: inherit;
+        overflow: hidden;
+    }
+    #d-fsize {
+        display: inherit;
+        overflow: hidden;
+    }

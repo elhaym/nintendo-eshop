@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "image": "lets_go_pikachu_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Pokémon Let's Go Pikachu",
+        "price": 59.99,
+        "stock": 50,
+        "qty": 0
+    },
+    {
+        "id": 2,
+        "image": "ssbu_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Super Smash Bros. Ultimate",
+        "price": 59.99,
+        "stock": 99,
+        "qty": 0
+    },
+    {
+        "id": 3,
+        "image": "octopath_traveler_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Octopath Traveler",
+        "price": 49.99,
+        "stock": 45,
+        "qty": 0
+    },
+    {
+        "id": 4,
+        "image": "mario_party_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Super Mario Party",
+        "price": 59.99,
+        "stock": 69,
+        "qty": 0
+    },
+    {
+        "id": 5,
+        "image": "dq_builder_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Dragon Quest Builders",
+        "price": 59.99,
+        "stock": 99,
+        "qty": 0
+    },
+    {
+        "id": 6,
+        "image": "lets_go_evoli_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Pokémon Let's Go Evoli",
+        "price": 59.99,
+        "stock": 45,
+        "qty": 0
+    },
+    {
+        "id": 7,
+        "image": "mario_kart_8_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Mario Kart 8 - Deluxe",
+        "price": 59.99,
+        "stock": 69,
+        "qty": 0
+    },
+    {
+        "id": 8,
+        "image": "kirby_star_allies_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Kirby Star Allies",
+        "price": 59.99,
+        "stock": 69,
+        "qty": 0
+    },
+    {
+        "id": 9,
+        "image": "tloz_botw_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "The Legend of Zelda : BOTW",
+        "price": 59.99,
+        "stock": 99,
+        "qty": 0
+    },
+    {
+        "id": 10,
+        "image": "db_fighterz_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Dragon Ball FighterZ",
+        "price": 59.99,
+        "stock": 45,
+        "qty": 0
+    },
+    {
+        "id": 11,
+        "image": "mario_odyssey_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "Super Mario Odyssey",
+        "price": 59.99,
+        "stock": 69,
+        "qty": 0
+    },
+    {
+        "id": 12,
+        "image": "donkey_kong_country_tropical_freeze_product_01.jpg",
+        "cat": "Nintendo Switch",
+        "title": "DK Country : Tropical Freeze",
+        "price": 59.99,
+        "stock": 69,
+        "qty": 0
+    }
+]
+

@@ -1,0 +1,26 @@
+@media screen and (min-width: 800px) and (min-width: 1024px) and (max-width: 1280px) {
+    header {
+        background-color: #ed1c24;
+        width: inherit;
+        height: 5.5vh;
+        padding: 15px 0px;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width: 914px) {
+    header {
+        background-color: #ed1c24;
+        width: inherit;
+        height: 5.5vh;
+        padding: 15px 0px;
+    }
+}
+
+@media screen and (max-width: 640px) and (orientation:portrait) {
+    header {
+        background-color: #ed1c24;
+        width: inherit;
+        height: 5.5vh;
+        padding: 15px 0px;
+    }
+}

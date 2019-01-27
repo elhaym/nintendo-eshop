@@ -1,0 +1,51 @@
+.btn-g{
+    color: #ffffff;
+    background-color: #0c0c0c;
+}
+
+.btn-o{
+    color: #e01111;
+
+}
+
+.btn-n{
+    color: #0c0c0c;
+
+}
+
+.btn-add-cart{
+    color: #ffffff;
+    background: #e01111;
+    padding: 15px;
+    border: none;
+    font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.9em;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.btn-add-cart:active{
+    color: #ffffff;
+    background: #000000;
+    transition: 300ms all ease;
+}
+
+.l-btn-checkout{
+    color: #ffffff;
+    background: #e01111;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.l-btn-checkout:active{
+    color: #ffffff;
+    background: #000000;
+    transition: 300ms all ease;
+}
