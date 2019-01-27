@@ -1,0 +1,292 @@
+.slider {
+    /*width: inherit;
+    height: 80vh;
+    position: relative;*/
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1920px) {
+    .slider {
+        width: 1220px;
+        height: 75vh;
+        position: relative;
+        background-color: #f1f1f1;
+        background-size: contain;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        margin-top: 55px;
+        clear: both;
+    }
+    .slider .ctitle {
+        height: auto;
+        margin: 0 auto;
+        white-space: inherit;
+    }
+    .slider .cstitle {
+        height: auto;
+        margin: 0 auto;
+        padding: 17px 0px 0px 0px;
+        white-space: inherit;
+    }
+    .slider-wrapper {
+        height: 100%;
+        width: 100%;
+        position: relative;
+    }
+    .slide {
+        height: 100%;
+        width: 100%;
+        display: inline-block;
+        position: relative;
+    }
+    .slide span {
+        height: auto;
+        width: 50%;
+        position: absolute;
+        text-align: center;
+        display: inherit;
+        white-space: normal;
+        left: 50%;
+        top: 3%;
+        transform: translate(-50%, 0);
+        z-index: 999;
+        padding: 50px 40px;
+      background-color: #000000d6!important;
+        background-color:#000000;
+    }
+    .slide p {
+        width: 86%;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        color: #ffffff;
+    }
+    .slide h1 {
+        font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1.9em;
+        font-weight: 800;
+        color: #ed1c24;
+        text-transform: uppercase;
+    }
+    .arrow {
+        height: 10px;
+        width: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: transparent;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: transform ease-in .1s;
+    }
+    .backArrow {
+        position: absolute;
+        top: 50%;
+        left: 25px;
+        z-index: 999;
+    }
+    .nextArrow {
+        position: absolute;
+        top: 50%;
+        right: 25px;
+        z-index: 999;
+    }
+    .fa-angle-right:before, .fa-angle-left:before {
+        font-size: 0.9em;
+        color: #ffffff;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width: 1279px) {
+    .slider {
+        width: inherit;
+        height: 80vh;
+        position: relative;
+        background-color: #f1f1f1;
+        background-size: contain;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        clear: both;
+    }
+    .fa-angle-right:before, .fa-angle-left:before {
+        color: rgb(207, 0, 0);
+        background-color: #ffffff;
+        border-radius: 50px;
+        font-size: 0.75em;
+    }
+    .slider .ctitle {
+        height: auto;
+        margin: 0 auto;
+        white-space: inherit;
+    }
+    .slider .cstitle {
+        height: auto;
+        margin: 0 auto;
+        padding: 17px 0px 0px 0px;
+        white-space: inherit;
+    }
+    .slider-wrapper {
+        height: 100%;
+        width: 100%;
+        position: relative;
+    }
+    .slide {
+        height: 100%;
+        width: 100%;
+        display: inline-block;
+        position: relative;
+    }
+    .slide span {
+        height: auto;
+        width: 50%;
+        position: absolute;
+        text-align: center;
+        display: inherit;
+        white-space: normal;
+        left: 50%;
+        top: 3%;
+        transform: translate(-50%, 0);
+        padding: 50px 40px;
+        background-color: #000000d6!important;
+        background-color:#000000;
+        }
+    .slide p {
+        width: 86%;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        color: #ffffff;
+    }
+    .slide h1 {
+        font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1.9em;
+        font-weight: 800;
+        color: #ed1c24;
+        text-transform: uppercase;
+    }
+    .arrow {
+        height: 10px;
+        width: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: transparent;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: transform ease-in .1s;
+    }
+    .backArrow {
+        position: absolute;
+        top: 50%;
+        left: 25px;
+        z-index: 999;
+    }
+    .nextArrow {
+        position: absolute;
+        top: 50%;
+        right: 25px;
+        z-index: 999;
+    }
+    .fa-angle-right:before, .fa-angle-left:before {
+        font-size: 0.9em;
+        color: #ffffff;
+    }
+}
+
+@media screen and (max-width: 640px) and (orientation:portrait) {
+    .slider {
+        width: inherit;
+        height: 80vh;
+        position: relative;
+        background-color: #f1f1f1;
+        background-size: contain;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        clear: both;
+    }
+    .fa-angle-right:before, .fa-angle-left:before {
+        color: rgb(207, 0, 0);
+        background-color: #ffffff;
+        border-radius: 50px;
+        font-size: 0.75em;
+    }
+    .slider .ctitle {
+        height: auto;
+        margin: 0 auto;
+        white-space: inherit;
+    }
+    .slider .cstitle {
+        height: auto;
+        margin: 0 auto;
+        padding: 17px 0px 0px 0px;
+        white-space: inherit;
+    }
+    .slider-wrapper {
+        height: 100%;
+        width: 100%;
+        position: relative;
+    }
+    .slide {
+        height: 100%;
+        width: 100%;
+        display: inline-block;
+        position: relative;
+    }
+    .slide span {
+        height: auto;
+        width: 50%;
+        position: absolute;
+        text-align: center;
+        display: inherit;
+        white-space: normal;
+        left: 50%;
+        top: 3%;
+        transform: translate(-50%, 0);
+        padding: 50px 40px;
+        background-color: #000000d6!important;
+        background-color:#000000;
+        }
+    .slide p {
+        width: 86%;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 1em;
+        color: #ffffff;
+    }
+    .slide h1 {
+        font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1.9em;
+        font-weight: 800;
+        color: #ed1c24;
+        text-transform: uppercase;
+    }
+    .arrow {
+        height: 10px;
+        width: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: transparent;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: transform ease-in .1s;
+    }
+    .backArrow {
+        position: absolute;
+        top: 50%;
+        left: 25px;
+        z-index: 999;
+    }
+    .nextArrow {
+        position: absolute;
+        top: 50%;
+        right: 25px;
+        z-index: 999;
+    }
+    .fa-angle-right:before, .fa-angle-left:before {
+        font-size: 0.9em;
+        color: #ffffff;
+    }
+}

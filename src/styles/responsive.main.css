@@ -1,0 +1,35 @@
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+    .container {
+        display: inline-block;
+        background-color: transparent;
+        width: 800px;
+        height: auto;
+        margin: 0 auto;
+        clear: both;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+    .container {
+        display: inline-block;
+        background-color: transparent;
+        width: 640px;
+        height: auto;
+        margin: 0 auto;
+        clear: both;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 640px) and (orientation:portrait) {
+    .container {
+        display: inline-block;
+        background-color: transparent;
+        width: 90vw;
+        height: auto;
+        margin: 0 auto;
+        clear: both;
+        overflow: hidden;
+    }
+}

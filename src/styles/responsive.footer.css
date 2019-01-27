@@ -1,0 +1,90 @@
+@media only screen and (min-width: 1280px) and (max-width: 1920px) {}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    footer li {
+        float: left;
+        margin: 0 auto;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+        font-size: 0.9em;
+        text-align: center;
+    }
+    footer li a {
+        display: block;
+        padding: 10px 10px;
+        text-decoration: none;
+        color: #444444;
+    }
+    .footer-nav img {
+        width: 120px;
+        float: none;
+        padding-top: 9px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width: 1023px) {
+    footer li {
+        float: left;
+        margin: 0 auto;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+        font-size: 0.9em;
+        text-align: center;
+    }
+    footer li a {
+        display: block;
+        padding: 10px 10px;
+        text-decoration: none;
+        color: #444444;
+    }
+    .footer-nav img {
+        width: 120px;
+        float: none;
+        padding-top: 9px;
+        margin-bottom: 20px;
+    }
+    .copyright-txt {
+        width: 70%;
+        text-align: left;
+        padding: 40px 65px;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 0.8em;
+        color: #444444;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 640px) and (orientation:portrait) {
+    footer li {
+        float: left;
+        margin: 0 auto;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+        font-size: 0.9em;
+        text-align: center;
+    }
+    footer li a {
+        display: block;
+        padding: 10px 10px;
+        text-decoration: none;
+        color: #444444;
+    }
+    .footer-nav img {
+        width: 120px;
+        float: none;
+        padding-top: 9px;
+        margin-bottom: 20px;
+    }
+    .copyright-txt {
+        width: 100%;
+        text-align: left;
+        padding: 40px 65px;
+        font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: 0.8em;
+        color: #444444;
+        box-sizing: border-box;
+    }
+}

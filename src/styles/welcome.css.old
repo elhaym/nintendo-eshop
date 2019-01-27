@@ -1,0 +1,70 @@
+@media screen and (min-width: 800px) and (min-width: 1024px) and (max-width: 1920px) {
+    .welcome {
+        width: 32.5vw;
+        height: 80vh;
+        margin: 0 auto;
+        white-space: nowrap;
+        overflow: hidden;
+        background: transparent;
+    }
+}
+
+@media screen and (max-width: 640px) and (orientation:portrait) {
+    .welcome {
+        display: none;
+    }
+}
+
+.welcome-wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    padding-top: 30vh;
+}
+
+.welcome h2 span {
+    color: #ffffff;
+}
+
+.welcome p {
+    font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    color: #727272;
+}
+
+.welcome h1 {
+    font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #ffffff;
+    text-align: left;
+    margin: 0 auto;
+    padding-left: 2px;
+    text-transform: uppercase;
+    /*text-shadow: 2px 0 0 #d8d8d8, -2px 0 0 #d8d8d8, 0 2px 0 #d8d8d8, 0 -2px 0 #d8d8d8, 1px 1px #d8d8d8, -1px -1px 0 #d8d8d8, 1px -1px 0 #d8d8d8, -1px 1px 0 #d8d8d8; */
+}
+
+.welcome h2 {
+    font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    font-weight: 200;
+    color: #ffffff;
+    text-align: left;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.mv {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    image-rendering: optimizeQuality;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
