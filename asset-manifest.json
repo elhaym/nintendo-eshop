@@ -1,7 +1,7 @@
 {
   "main.css": "/nintendo-eshop/static/css/main.913bebb8.chunk.css",
-  "main.js": "/nintendo-eshop/static/js/main.29acdd2f.chunk.js",
-  "main.js.map": "/nintendo-eshop/static/js/main.29acdd2f.chunk.js.map",
+  "main.js": "/nintendo-eshop/static/js/main.f8f0da14.chunk.js",
+  "main.js.map": "/nintendo-eshop/static/js/main.f8f0da14.chunk.js.map",
   "static/css/1.54685762.chunk.css": "/nintendo-eshop/static/css/1.54685762.chunk.css",
   "static/js/1.e717ebad.chunk.js": "/nintendo-eshop/static/js/1.e717ebad.chunk.js",
   "static/js/1.e717ebad.chunk.js.map": "/nintendo-eshop/static/js/1.e717ebad.chunk.js.map",
@@ -62,9 +62,9 @@
   "static/media/switch.webp": "/nintendo-eshop/static/media/switch.1eb18ea8.webp",
   "static/media/test2.png": "/nintendo-eshop/static/media/test2.cedc0eff.png",
   "static/media/tloz_botw_product_01.jpg": "/nintendo-eshop/static/media/tloz_botw_product_01.cd205b40.jpg",
-  "static/css/main.913bebb8.chunk.css.map": "/nintendo-eshop/static/css/main.913bebb8.chunk.css.map",
   "static/css/1.54685762.chunk.css.map": "/nintendo-eshop/static/css/1.54685762.chunk.css.map",
+  "static/css/main.913bebb8.chunk.css.map": "/nintendo-eshop/static/css/main.913bebb8.chunk.css.map",
   "index.html": "/nintendo-eshop/index.html",
-  "precache-manifest.203211a5daf039b766d587ce5c06c73a.js": "/nintendo-eshop/precache-manifest.203211a5daf039b766d587ce5c06c73a.js",
+  "precache-manifest.f79d879b28c8ec0c97c0ed751e9683af.js": "/nintendo-eshop/precache-manifest.f79d879b28c8ec0c97c0ed751e9683af.js",
   "service-worker.js": "/nintendo-eshop/service-worker.js"
 }

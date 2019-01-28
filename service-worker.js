@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nintendo-eshop/precache-manifest.203211a5daf039b766d587ce5c06c73a.js"
+  "/nintendo-eshop/precache-manifest.f79d879b28c8ec0c97c0ed751e9683af.js"
 );
 
 workbox.clientsClaim();

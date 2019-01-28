@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "29acdd2fcab673118268",
+    "revision": "f8f0da14c322e901a995",
     "url": "/nintendo-eshop/static/css/main.913bebb8.chunk.css"
   },
   {
-    "revision": "29acdd2fcab673118268",
-    "url": "/nintendo-eshop/static/js/main.29acdd2f.chunk.js"
+    "revision": "f8f0da14c322e901a995",
+    "url": "/nintendo-eshop/static/js/main.f8f0da14.chunk.js"
   },
   {
     "revision": "e717ebad348aa3a8d8c8",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/nintendo-eshop/static/media/tloz_botw_product_01.cd205b40.jpg"
   },
   {
-    "revision": "b3caa586d6e20f49c50ef8a9400ac4d1",
+    "revision": "e1ea61dff0a2180384f844ab45421c89",
     "url": "/nintendo-eshop/index.html"
   }
 ];
